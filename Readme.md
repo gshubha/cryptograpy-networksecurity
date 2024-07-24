@@ -1,5 +1,5 @@
 Simplified AES, RSA and Digital Signture generation and verification using python
--Shubham Gupta
+--Shubham Gupta
 
 This project is used to show a secure connection between a client and server where data is sent in an encrypted manner.
 It includes implementation of AES, RSA and SHA-256 as Hash function.
